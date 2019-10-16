@@ -42,12 +42,12 @@ h2 {
   display: block;
 }
 
-p {
-  padding: .5em 0;
-}
-
 .text {
   text-align: left;
+}
+
+p {
+  padding: .5em 0;
 }
 
 .btn {
